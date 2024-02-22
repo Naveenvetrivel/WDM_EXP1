@@ -53,6 +53,11 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+## EMPLOYEE TABLE CREATION:
+![image](https://github.com/Naveenvetrivel/WDM_EXP1/assets/94165322/4c0c85e0-483f-41ec-b8c1-c2767d47d765)
+## WEATHER TABLE CREATION:
+![image](https://github.com/Naveenvetrivel/WDM_EXP1/assets/94165322/1aae9727-99f1-4268-bb22-5766ca145eb9)
+
 
 
 
@@ -75,6 +80,12 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+## EMPLOYEE TABLE:
+![image](https://github.com/Naveenvetrivel/WDM_EXP1/assets/94165322/8d620843-ae27-4e9d-bfad-17c0bd0d0baf)
+## WEATHER TABLE:
+![image](https://github.com/Naveenvetrivel/WDM_EXP1/assets/94165322/29ad3033-3e0d-4edf-9072-6d8d6245bb69)
+
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +102,12 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+## EMPLOYEE TABLE:
+![image](https://github.com/Naveenvetrivel/WDM_EXP1/assets/94165322/e9a61e7e-74b2-4499-8eb7-123fa2c9d43f)
+## WEATHER TABLE:
+![image](https://github.com/Naveenvetrivel/WDM_EXP1/assets/94165322/270e9191-7e31-4575-bb1c-32df6137b3d6)
+
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +124,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+## EMPLOYEE TABLE:
+![image](https://github.com/Naveenvetrivel/WDM_EXP1/assets/94165322/5ce7647e-4c3e-4cc3-bf48-de1f4d0fb1d3)
+## WEATHER TABLE:
+![image](https://github.com/Naveenvetrivel/WDM_EXP1/assets/94165322/e6c7c7bb-1ee2-4bf6-b153-49604e2e27f1)
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
